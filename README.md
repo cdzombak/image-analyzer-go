@@ -1,6 +1,6 @@
 # image-analyzer-go
 
-Go library for analyzing image properties.
+Photo/image analysis functions for Golang.
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/cdzombak/image-analyzer-go.svg)](https://pkg.go.dev/github.com/cdzombak/image-analyzer-go)
 
